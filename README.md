@@ -1,6 +1,6 @@
 # Study-JNI
 
-Platform: MacOS | Linux
+Platform: MacOS | Linux     
 Compile: gcc & javac & javah
 
 ## How to use ?
