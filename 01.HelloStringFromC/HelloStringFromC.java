@@ -7,6 +7,6 @@ public class HelloStringFromC {
     }
 
     static {
-        System.load("/home/gavin/Workspace/Study-JNI/01.HelloStringFromC/libhelloString.so");
+        System.load("/Users/gavin/Workspace/Study-JNI/01.HelloStringFromC/libhelloString.so");
     }
 }
