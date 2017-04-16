@@ -5,5 +5,5 @@
 
 JNIEXPORT jstring JNICALL Java_HelloStringFromC_helloStringFromC(JNIEnv* env, jclass cls) {
 
-    return (*env)->NewStringUTF(env, "XX");
+    return (*env)->NewStringUTF(env, "Hello");
 }
